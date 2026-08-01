@@ -6,3 +6,5 @@ Sorting lists algorithm in Java.
 Clone this project and look at the source files:
 - `Sort.java`
 - `Visualizer.java`
+
+*Initialized by wlakernotalnanathan workspace automation.*
